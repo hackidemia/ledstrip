@@ -1,4 +1,4 @@
 ledstrip
 ========
 
-Hackercamp LED strip
+Hackercamp RGB LED strip
