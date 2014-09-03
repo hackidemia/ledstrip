@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="2.39554in"
+   height="2.98608in"
+   viewBox="0 0 172.479 214.998"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="color_sensor_breakout_board_hdjd-s822(schematics).svg">
+  <metadata
+     id="metadata103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs101" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1090"
+     id="namedview99"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="87.784385"
+     inkscape:cy="141.46433"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <g
+     partID="18173220"
+     id="g4">
+    <g
+       id="schematic">
+      <rect
+         width="127.559"
+         x="22.46"
+         y="22.46"
+         fill="none"
+         height="170.078"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="2.4"
+         id="rect7" />
+      <g
+         transform="translate(38.718588,72.439394)"
+         id="g9">
+        <g
+           id="g11">
+          <text
+             id="label_1_"
+             font-size="16"
+             style="font-size:16px;font-family:Droid Sans">HDJD-S822</text>
+        </g>
+      </g>
+      <g
+         transform="translate(66.9187,93.699194)"
+         id="g14">
+        <g
+           id="g16">
+          <text
+             id="label_2_"
+             font-size="16"
+             style="font-size:16px;font-family:Droid Sans">Color</text>
+        </g>
+      </g>
+      <g
+         transform="translate(61.6765,114.959)"
+         id="g19">
+        <g
+           id="g21">
+          <text
+             id="label_3_"
+             font-size="16"
+             style="font-size:16px;font-family:Droid Sans">Sensor</text>
+        </g>
+      </g>
+      <g
+         transform="translate(64.5281,136.219)"
+         id="g24">
+        <g
+           id="g26">
+          <text
+             id="label_4_"
+             font-size="16"
+             style="font-size:16px;font-family:Droid Sans">Board</text>
+        </g>
+      </g>
+      <line
+         y1="78.239906"
+         x1="150.019"
+         y2="78.239906"
+         x2="171.27901"
+         id="line33"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         y1="99.499008"
+         x1="150.019"
+         y2="99.499008"
+         x2="171.27901"
+         id="line35"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         y1="120.759"
+         x1="150.019"
+         y2="120.759"
+         x2="171.27901"
+         id="line37"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         id="_x3C_Path_x3E_"
+         stroke-linecap="round"
+         y1="193.739"
+         stroke-width="2.4"
+         x1="86.2399"
+         y2="213.798"
+         x2="86.2399" />
+      <line
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         y1="1.2"
+         stroke-width="2.4"
+         x1="86.2399"
+         y2="21.26"
+         x2="86.2399"
+         id="line41" />
+      <g
+         transform="translate(131.721,80.63879)"
+         id="g53">
+        <g
+           id="g55">
+          <text
+             id="SDA"
+             font-size="9.93599"
+             style="font-size:9.93599033px;font-family:Droid Sans">VR</text>
+        </g>
+      </g>
+      <g
+         transform="translate(131.721,101.899)"
+         id="g58">
+        <g
+           id="g60">
+          <text
+             id="SCL"
+             font-size="9.93599"
+             style="font-size:9.93599033px;font-family:Droid Sans">VG</text>
+        </g>
+      </g>
+      <g
+         transform="translate(131.721,123.158)"
+         id="g63">
+        <g
+           id="g65">
+          <text
+             id="CLK"
+             font-size="9.93599"
+             style="font-size:9.93599033px;font-family:Droid Sans">VB</text>
+        </g>
+      </g>
+      <g
+         transform="matrix(1, 0, 0, 1, 76.6129, 33.8596)"
+         id="g68">
+        <g
+           id="g70">
+          <text
+             id="_x33_.3V"
+             font-size="9.93599"
+             style="font-size:9.93599033px;font-family:Droid Sans">5V</text>
+        </g>
+      </g>
+      <g
+         transform="matrix(1, 0, 0, 1, 75.7912, 187.978)"
+         id="g73">
+        <g
+           id="g75">
+          <text
+             font-family="Droid Sans"
+             id="GND"
+             font-size="9.93599">GND</text>
+        </g>
+      </g>
+      <rect
+         width="2.399"
+         x="0"
+         y="106.299"
+         fill="none"
+         height="2.4"
+         id="connector0" />
+      <g
+         width="2.399"
+         x="0"
+         y="106.299"
+         fill="none"
+         height="2.4"
+         stroke="none"
+         id="connector0terminal"
+         stroke-width="0" />
+      <polygon
+         fill="none"
+         points="85.0389,0,87.4389,0,87.4389,0"
+         id="connector1" />
+      <g
+         width="2.4"
+         x="85.0389"
+         y="0"
+         fill="none"
+         height="0"
+         stroke="none"
+         id="connector1terminal"
+         stroke-width="0" />
+      <polygon
+         fill="none"
+         points="85.0389,214.998,87.4389,214.998,87.4389,214.998"
+         id="connector2" />
+      <g
+         width="2.4"
+         x="85.0389"
+         y="214.998"
+         fill="none"
+         height="0"
+         stroke="none"
+         id="connector2terminal"
+         stroke-width="0" />
+      <rect
+         width="2.3989999"
+         x="170.078"
+         y="98.299011"
+         height="2.4000001"
+         id="connector3"
+         style="fill:none" />
+      <g
+         width="2.399"
+         x="170.078"
+         y="106.299"
+         fill="none"
+         height="2.4"
+         stroke="none"
+         id="connector3terminal"
+         stroke-width="0" />
+      <rect
+         width="2.3989999"
+         x="170.078"
+         y="77.03891"
+         height="2.4000001"
+         id="connector4"
+         style="fill:none" />
+      <g
+         width="2.399"
+         x="170.078"
+         y="85.0389"
+         fill="none"
+         height="2.4"
+         stroke="none"
+         id="connector4terminal"
+         stroke-width="0" />
+      <rect
+         width="2.3989999"
+         x="170.078"
+         y="119.559"
+         height="2.4000001"
+         id="connector5"
+         style="fill:none" />
+      <g
+         width="2.399"
+         x="170.078"
+         y="127.559"
+         fill="none"
+         height="2.4"
+         stroke="none"
+         id="connector5terminal"
+         stroke-width="0" />
+      <rect
+         width="2.399"
+         x="0"
+         y="127.559"
+         fill="none"
+         height="2.4"
+         id="connector6" />
+      <g
+         width="2.399"
+         x="0"
+         y="127.559"
+         fill="none"
+         height="2.4"
+         stroke="none"
+         id="connector6terminal"
+         stroke-width="0" />
+      <polygon
+         fill="none"
+         points="106.299,214.998,108.698,214.998,108.698,214.998"
+         id="connector7" />
+      <g
+         width="2.399"
+         x="106.299"
+         y="214.998"
+         fill="none"
+         height="0"
+         stroke="none"
+         id="connector7terminal"
+         stroke-width="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="39.858608"
+         y="185.40646"
+         id="text3080"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.80000092,0,0,0.80000092,-3.9630569e-5,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3082"
+           x="39.858608"
+           y="185.40646" /></text>
+      <text
+         y="101.36637"
+         x="27.763542"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0"
+         font-size="9.93599">GSG1</text>
+      <text
+         y="81.396805"
+         x="27.763542"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0-7"
+         font-size="9.93599">GSR0</text>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="140.65814"
+         x1="150.23235"
+         y2="140.65814"
+         x2="171.4924"
+         id="line33-9" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="56.729137"
+         x1="1.0633111"
+         y2="56.729137"
+         x2="22.323261"
+         id="line33-1" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="77.988258"
+         x1="1.0633111"
+         y2="77.988258"
+         x2="22.323261"
+         id="line35-1" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="99.248253"
+         x1="1.0633111"
+         y2="99.248253"
+         x2="22.323261"
+         id="line37-5" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="119.14736"
+         x1="1.2766442"
+         y2="119.14736"
+         x2="22.536644"
+         id="line33-9-0" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="140.40649"
+         x1="1.2766442"
+         y2="140.40649"
+         x2="22.536644"
+         id="line35-9-9" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+         y1="161.66658"
+         x1="1.2766442"
+         y2="161.66658"
+         x2="22.536644"
+         id="line37-2-9" />
+      <g
+         transform="translate(127.6072,144.29163)"
+         id="g63-5">
+        <g
+           id="g65-7">
+          <text
+             id="CLK-9"
+             font-size="9.93599"
+             style="font-size:9.93599033px;font-family:Droid Sans">LED</text>
+        </g>
+      </g>
+      <text
+         y="142.98033"
+         x="27.702238"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0-5"
+         font-size="9.93599">GSB1</text>
+      <text
+         y="123.01071"
+         x="27.702238"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0-7-6"
+         font-size="9.93599">GSG0</text>
+      <text
+         y="59.847515"
+         x="27.763252"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0-2"
+         font-size="9.93599">GSR1</text>
+      <text
+         y="163.87814"
+         x="27.577465"
+         style="font-size:9.93599129px;font-family:Droid Sans"
+         id="LED-0-5-1"
+         font-size="9.93599">GSB0</text>
+    </g>
+  </g>
+</svg>
